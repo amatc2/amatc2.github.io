@@ -1,2 +1,2 @@
-# fanxlxmu.github.io
-Dr. Xiaoliang Fan's lab@Xiamen University
+# amatc2.github.io
+Dr. Yanjun Wang's lab@Nanjing University of Aeronautics and Astronautics
